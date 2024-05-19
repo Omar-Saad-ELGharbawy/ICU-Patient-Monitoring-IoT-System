@@ -1,7 +1,7 @@
-# Remote-Tracked-Patient-monitor
+#  ICU Patient Monitoring IoT System
 
 ## Overview
-The Remote-Tracked-Patient-monitor System is a comprehensive IoT project designed to monitor and manage real-time patient data within an ICU environment. 
+The  ICU Patient Monitoring System is a comprehensive IoT project designed to monitor and manage real-time patient data within an ICU environment. 
 
 ## Parts and Functionalities
 
